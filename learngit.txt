@@ -1,3 +1,4 @@
 Hello git 
 this is my learngit object
 first change~
+creating a new branch is quick
