@@ -1,2 +1,3 @@
 Hello git 
 this is my learngit object
+first change~
